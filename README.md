@@ -1,5 +1,5 @@
 # Mobile-Mechanic
-Web Application
+This is web based application which helps people to get any kind of vehicle service at any point of time in perticular location. where user can use our multiple services by registering into this web portle. and also there is perticular section for mechanics to register into our web application. 
 
 Step 1: Download the zip file and extract the zip file.
 Step 2: Install local servers XAMP or WAMP.
